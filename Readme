@@ -19,4 +19,4 @@ This document describes the material of our paper submitted for ESWC2020 to vali
  Finally, we packaged our tool using Docker, so it can be easy to use. 
  The current version of the tool is standalone however, with docker we can deployed on a crowdsourcing platform such as Amazon Mechanical Turk.
 
-5. The files ESWC2020UserTest.pdf and ESWC2020ExtractedTriples.pdf	provide additional explaination about the evaluation conducted.
+5. The files ESWC2020UserTest.pdf and ESWC2020ExtractedTriples.pdf provide additional explaination about the evaluation conducted.
